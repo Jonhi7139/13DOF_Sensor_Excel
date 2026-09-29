@@ -33,6 +33,4 @@ O 13DOF integra três circuitos da Bosch:
 
 **Jonhi7139** — [https://github.com/Jonhi7139](https://github.com/Jonhi7139)
 
-## Licença
-
 [MIT / GPL / outra]
